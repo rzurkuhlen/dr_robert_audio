@@ -31,3 +31,7 @@ ul {
     display: inline-block;
     float: right;
 }
+
+body {
+    background-image: url("imgs/greyground.jpeg");
+}
